@@ -1,6 +1,6 @@
 # 🍽️ TasteHub - Modern Food Delivery Web Application
 
-![TasteHub Banner](https://via.placeholder.com/800x200/FF6B35/FFFFFF?text=TasteHub)
+![TasteHub Banner](./banner.png)
 
 **TasteHub** is a comprehensive, modern food ordering web application that brings your favorite restaurants right to your fingertips. Built with cutting-edge web technologies, it offers a seamless dining experience with real-time data integration and advanced features.
 
@@ -40,6 +40,9 @@
 - **Order Management**: Cancel scheduled orders, clear completed orders
 - **Visual Status Indicators**: Color-coded status badges with icons
 - **Order History**: Complete order timeline with timestamps
+
+![Schedule Orders Feature](./schedule.png)
+*Advanced order scheduling system with time slots and status tracking*
 
 ### 📱 **Responsive Design & Mobile Experience**
 - **Mobile-First Design**: Optimized for all screen sizes
@@ -123,8 +126,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/harshith/tastehub-food-delivery.git
-   cd tastehub-food-delivery
+   git clone https://github.com/saiharshith-4502/food-delivery-app.git
+   cd food-delivery-app
    ```
 
 2. **Install dependencies**:
@@ -153,16 +156,20 @@ npm test
 ## 📱 Screenshots
 
 ### Home Page - Restaurant Discovery
-![Home Page Screenshot](https://i.ibb.co/TK7XJfK/Screenshot-89.png)
+![Home Page Screenshot](./home.png)
 *Browse nearby restaurants with real-time search and filtering*
 
 ### Restaurant Menu - Detailed View
-![Menu Page Screenshot](https://i.ibb.co/bKNymxF/Screenshot-90.png)
+![Menu Page Screenshot](./menu.png)
 *Explore detailed menus with categories and item descriptions*
 
 ### Shopping Cart - Order Management
-![Cart Page Screenshot](https://i.ibb.co/CQxCSNq/Screenshot-91.png)
+![Cart Page Screenshot](./cart.png)
 *Manage your cart and schedule orders for future delivery*
+
+### About Page - Learn More
+![About Page Screenshot](./about.png)
+*Get to know more about TasteHub and our mission to deliver great food*
 
 ## 🏗️ Project Architecture
 
@@ -255,9 +262,9 @@ This project is licensed under the ISC License. See the `LICENSE` file for detai
 
 ## 📞 Contact
 
-**Developer**: Harshith  
-**Email**: [harshith@gmail.com](mailto:harshith@gmail.com)  
-**GitHub**: [github.com/harshith](https://github.com/harshith)  
+**Developer**: Sai Harshith  
+**Email**: [saiharshith4502@gmail.com](mailto:saiharshith4502@gmail.com)  
+**GitHub**: [github.com/saiharshith-4502](https://github.com/saiharshith-4502)
 
 For any questions, feedback, or collaboration opportunities, feel free to reach out!
 
