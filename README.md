@@ -217,27 +217,7 @@ Custom fonts and styling can be configured in `tailwind.config.js`.
 - **Bundle Optimization**: Parcel-based optimization for production builds
 - **Memory Management**: Proper cleanup of event listeners and timeouts
 
-## 📈 Future Enhancements
 
-### **Upcoming Features**
-- [ ] User authentication and profile management
-- [ ] Payment gateway integration
-- [ ] Real-time order tracking with GPS
-- [ ] Push notifications for order updates
-- [ ] Reviews and ratings system
-- [ ] Loyalty points and rewards program
-- [ ] Multi-language support
-- [ ] Dark mode theme
-- [ ] Advanced filters (price range, delivery time, etc.)
-- [ ] Favorites and order history
-
-### **Technical Improvements**
-- [ ] PWA (Progressive Web App) features
-- [ ] Service worker for offline functionality
-- [ ] Enhanced accessibility features
-- [ ] Performance monitoring and analytics
-- [ ] A/B testing framework
-- [ ] SEO optimization
 
 ## 🤝 Contributing
 
@@ -256,9 +236,6 @@ We welcome contributions! Here's how you can help:
 - Update documentation as needed
 - Ensure responsive design for all new components
 
-## 📄 License
-
-This project is licensed under the ISC License. See the `LICENSE` file for details.
 
 ## 📞 Contact
 
